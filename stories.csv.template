@@ -1,0 +1,5 @@
+Priority,As a,I want to,so that
+medium,user,create an account for myself,I can start using the system immediately
+medium,user,reset my own password using my email address,I can log in
+medium,user,complain to the developers,they can make the system better
+high,admin,delete all user accounts,I can go home,be happy
