@@ -1,6 +1,6 @@
 # User Story Kit #
 
-Simple tools for turning simple user stories defined in .CSV files into human-readable, sorted Markdown documents that can then be rendered to HTML, PDF etc.
+Turns simple user stories defined in .CSV files into human-readable, sorted Markdown documents that can then be rendered to HTML, PDF etc.
 
 # Usage #
 
